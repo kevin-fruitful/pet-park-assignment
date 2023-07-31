@@ -1,5 +1,7 @@
 # Pet Park
 
+[![test](https://github.com/kevin-fruitful/pet-park-assignment/actions/workflows/test.yml/badge.svg)](https://github.com/kevin-fruitful/pet-park-assignment/actions/workflows/test.yml)
+
 ## Goal
 
 The goal of this exercise is to develop a pet park smart contract. The basic structure of this contract has been laid out for you in `src/PetPark.sol`. We can have 5 kinds of animals in our pet park
